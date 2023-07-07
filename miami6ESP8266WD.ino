@@ -1,3 +1,7 @@
+// This code is mainly form the Project of Alex Lynd and his youtube video on a $15 dollar Esp8266 WarDriver
+// Work in Progress  as always
+
+
 #include <Adafruit_SSD1306.h>
 #include <Adafruit_GFX.h>
 #include <ESP8266WiFi.h>
