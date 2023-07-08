@@ -1,5 +1,5 @@
 # # 
-<img src=" (https://i.imgur.com/rTWAT7X.jpg)">
+<img src="https://i.imgur.com/rTWAT7X.jpg">
 
 # ESP8266-Mini-Wardriver
 
