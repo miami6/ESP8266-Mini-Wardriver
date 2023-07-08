@@ -1,3 +1,6 @@
+# # Logo
+<img src="https://i.imgur.com/R6ObnGg.png">
+
 # ESP8266-Mini-Wardriver
 
 
@@ -79,7 +82,7 @@ Wemos D1 Pinout
 Display 128x64
 
 https://imgur.com/a/UG9nVmJ
-<img src="https://i.imgur.com/R6ObnGg.png">
+
 
 
 
