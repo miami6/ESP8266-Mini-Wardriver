@@ -8,14 +8,16 @@
 ESP8266 Mini Driver
 
 
-A brief description of what this project does and who it's for
+A brief description of what this project does  
 
+This is a small electronics project for all those interested in arduino and wifi stuff  
 
 A arduino sketch in th eino format to get your hardware going wardriving on the ESP8266 WiFi microcontroller 
 
 Documentation on this page is still in development. CREDIT to Alex Lynd for the Idea. 
 
-Components
+Components used in the project are as follows 
+
 Any ESP8266-based board should work with the basic required components, but the D1 mini form factor is highly recommended since using modules (such as for SD logging + battery management) can be done using plug-and-play hardware in a small footprint. All linked components are D1 mini compatible.
 
 Required Components:
