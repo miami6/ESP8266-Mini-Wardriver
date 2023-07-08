@@ -19,6 +19,11 @@ Documentation on this page is still in development. CREDIT to Alex Lynd for the 
 Components used in the project are as follows 
 
 Any ESP8266-based board should work with the basic required components, but the D1 mini form factor is highly recommended since using modules (such as for SD logging + battery management) can be done using plug-and-play hardware in a small footprint. All linked components are D1 mini compatible.
+# #
+Pinout 
+Wemos D1 Pinout
+<img src=" https://i.imgur.com/oUn3qy3.png">
+
 
 Required Components:
 # #
@@ -26,7 +31,7 @@ Component	Purpose
 ESP8266	Gather WiFi data & control hardware modules
 Wemos D1 Product 
 
-<img src="https://imgur.com/a/GisMFY7">
+<img src="https://i.imgur.com/EYvZBMK.png">
 
 SD Reader	Store data that we can analyze with WiGLE / Python
 SD Card Wiring
@@ -34,17 +39,18 @@ SD Card Wiring
 
 GPS Module	Grab geolocation data + timestamp
 
-<img src=" https://i.imgur.com/6uUIQhl.png)">
+<img src="https://i.imgur.com/G61oOVt.png">
+
+Display 128x64
+
+<img src="https://i.imgur.com/SYSRmWb.png">
 
 Optional Components:
 
 Component	Purpose
 128x64 OLED	Get a visual display of WiFi data being captured
 LiPo Battery	Power your ESP8266 for portable applications
-Battery Module	Manage power for your ESP8266 w/ a LiPo battery
-100K Ω Resistor	Optional to read in battery level w/ the D1 Mini
-Hardware Setup
-SD Reader Module
+
 
 SD Reader Pin	ESP8266 GPIO	D1 Mini Pin
 MISO	GPIO12	D6
@@ -72,25 +78,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-##
-
-Wemos D1 Pinout
-<img src="https://imgur.com/a/POuHgwD">
-
-
-
-##
-
-Display 128x64
-
-https://imgur.com/a/UG9nVmJ
-
-
-
-
-
-##
-
+ 
 
 <img src="https://i.imgur.com/6uUIQhl.png">
 ##
