@@ -39,7 +39,7 @@ SD Card Wiring
 
 GPS Module	Grab geolocation data + timestamp
 
-<img src="https://i.imgur.com/G61oOVt.png">
+<img src="https://i.imgur.com/6uUIQhl.png">
 
 Display 128x64
 
@@ -80,7 +80,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
  
 
-<img src="https://i.imgur.com/6uUIQhl.png">
+
 ##
 
 <img src="https://i.imgur.com/6uUIQhl.png">
