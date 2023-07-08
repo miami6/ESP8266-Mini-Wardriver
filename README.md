@@ -1,4 +1,4 @@
-# # Logo
+# # 
 <img src="https://i.imgur.com/R6ObnGg.png">
 
 # ESP8266-Mini-Wardriver
