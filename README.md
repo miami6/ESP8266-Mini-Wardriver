@@ -19,13 +19,14 @@ Required Components:
 
 Component	Purpose
 ESP8266	Gather WiFi data & control hardware modules
+Wemos D1 Product 
 
-
-
-
-
+<img src="https://imgur.com/a/GisMFY7">
 
 SD Reader	Store data that we can analyze with WiGLE / Python
+SD Card Wiring
+<img src="https://imgur.com/a/0XDCpHK">
+
 GPS Module	Grab geolocation data + timestamp
 Optional Components:
 
@@ -73,17 +74,14 @@ GPS Wiring
 
 <img src=" https://i.imgur.com/6uUIQhl.png)">
 
-SD Card Wiring
-<img src="https://imgur.com/a/0XDCpHK">
+
 
 
 Wemos D1 Pinout
 <img src="https://imgur.com/a/POuHgwD">
 
 
-Wemos D1 Product 
 
-<img src="https://imgur.com/a/GisMFY7">
 
 
 Display 128x64
