@@ -21,7 +21,7 @@ Components used in the project are as follows
 Any ESP8266-based board should work with the basic required components, but the D1 mini form factor is highly recommended since using modules (such as for SD logging + battery management) can be done using plug-and-play hardware in a small footprint. All linked components are D1 mini compatible.
 
 Required Components:
-
+# #
 Component	Purpose
 ESP8266	Gather WiFi data & control hardware modules
 Wemos D1 Product 
