@@ -1,5 +1,5 @@
 # # 
-<img src=" https://github.com/miami6/logos/blob/main/miami6logo1.jpg](https://raw.githubusercontent.com/miami6/logos/main/miami6logo1.jpg?token=GHSAT0AAAAAACE23D3DA6VBD7Z7EN76SO3IZFI4GGQ">
+<img src=" https://raw.githubusercontent.com/miami6/logos/main/miami6logo1.jpg?token=GHSAT0AAAAAACE23D3DA6VBD7Z7EN76SO3IZFI4GGQ">
 
 # ESP8266-Mini-Wardriver
 
